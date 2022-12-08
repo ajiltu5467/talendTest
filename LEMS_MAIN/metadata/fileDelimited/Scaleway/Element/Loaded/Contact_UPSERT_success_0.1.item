@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_b75wESPzEe2SWPmeh6-XdQ" name="Contact_UPSERT_success" dataPackage="_b75wEiPzEe2SWPmeh6-XdQ" Server="Localhost 127.0.0.1" FilePath="C:/Talend/Scaleway/Dev/Output/Contact_UPSERT_success.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_b75wEiPzEe2SWPmeh6-XdQ" name="default" dataManager="_b75wESPzEe2SWPmeh6-XdQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_b76XICPzEe2SWPmeh6-XdQ" id="_BVX9YCPzEe2SWPmeh6-XdQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_b76XISPzEe2SWPmeh6-XdQ" label="external_id__c" length="36" talendType="id_String" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_b76XIiPzEe2SWPmeh6-XdQ" label="FirstName" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_b76XIyPzEe2SWPmeh6-XdQ" label="LastName" length="36" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_b76XJCPzEe2SWPmeh6-XdQ" label="Email" length="34" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_b76XJSPzEe2SWPmeh6-XdQ" label="salesforce_id" length="18" talendType="id_String" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_b76XJiPzEe2SWPmeh6-XdQ" label="salesforce_created" length="5" talendType="id_Boolean" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_R1R-ADKcEe2lsfGggbUw5Q" name="Extract_fiches" dataPackage="_R1R-ATKcEe2lsfGggbUw5Q" Server="Localhost 127.0.0.1" FilePath="C:/Talend/Scaleway/Dev/Output/Extract_fiches_2022-07-19.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_R1R-ATKcEe2lsfGggbUw5Q" name="default" dataManager="_R1R-ADKcEe2lsfGggbUw5Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_R1R-AjKcEe2lsfGggbUw5Q" id="_KxVaIDKcEe2lsfGggbUw5Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-AzKcEe2lsfGggbUw5Q" label="id_client" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-BDKcEe2lsfGggbUw5Q" label="name" length="23" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-BTKcEe2lsfGggbUw5Q" label="first_name" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-BjKcEe2lsfGggbUw5Q" label="last_name" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-BzKcEe2lsfGggbUw5Q" label="is_agent" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-CDKcEe2lsfGggbUw5Q" label="email" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-CTKcEe2lsfGggbUw5Q" label="id_ticket" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-CjKcEe2lsfGggbUw5Q" label="department_id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-CzKcEe2lsfGggbUw5Q" label="UUID" length="36" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-DDKcEe2lsfGggbUw5Q" label="Organization" length="36" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-DTKcEe2lsfGggbUw5Q" label="Brands" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-DjKcEe2lsfGggbUw5Q" label="is_confirmed" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-DzKcEe2lsfGggbUw5Q" label="auto_responder" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-EDKcEe2lsfGggbUw5Q" label="is_user" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-ETKcEe2lsfGggbUw5Q" label="was_agent" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-EjKcEe2lsfGggbUw5Q" label="is_disabled" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-EzKcEe2lsfGggbUw5Q" label="creation_system" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-FDKcEe2lsfGggbUw5Q" label="password" length="60" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-FTKcEe2lsfGggbUw5Q" label="password_scheme" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_R1R-FjKcEe2lsfGggbUw5Q" label="date_password_set" length="19" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
