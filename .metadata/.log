@@ -320,3 +320,23 @@ org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.la
 !ENTRY org.talend.platform.logging 1 0 2022-12-08 12:05:36.760
 !MESSAGE 2022-12-08 12:05:36,760 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /LEMS_DEV_TESTJOBTOPUSHTOMAIN_0.1/src/test/resources
 
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 14:44:32.978
+!MESSAGE 2022-12-08 14:44:32,975 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/LEMS_DEV_ROUTINES: org.example.lems_dev.code:routines:7.3.1 with classifier  to /LEMS_DEV_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 14:44:33.269
+!MESSAGE 2022-12-08 14:44:33,268 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /LEMS_DEV_ORDERITEM_V4_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 14:44:33.271
+!MESSAGE 2022-12-08 14:44:33,269 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /LEMS_DEV_ORDERITEM_V4_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 14:44:33.278
+!MESSAGE 2022-12-08 14:44:33,277 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /LEMS_DEV_ORDERITEM_V4_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 14:44:33.279
+!MESSAGE 2022-12-08 14:44:33,278 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /LEMS_DEV_ORDERITEM_V4_0.1/src/test/resources
+
