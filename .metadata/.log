@@ -126,3 +126,197 @@ org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.la
 !ENTRY org.talend.platform.logging 1 0 2022-12-08 11:45:15.438
 !MESSAGE 2022-12-08 11:45:15,438 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /LEMS_DEV_S9000_SF_ACCOUNT_V6_0.1/src/test/resources
 
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-12-08 11:48:09.048
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2022-12-08 11:48:09.540 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.16.1
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -talendReload false
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -talendReload false -data file:/C:/LEMS/dev/talendTest/
+
+!ENTRY org.eclipse.jdt.launching.macosx 4 0 2022-12-08 11:48:10.468
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.macosx [19]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:451)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1783)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1762)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1725)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1656)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:233)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:343)
+
+!ENTRY org.eclipse.jdt.launching.ui.macosx 4 0 2022-12-08 11:48:10.470
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.ui.macosx [20]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:451)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1783)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1762)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1725)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1656)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:233)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:343)
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 11:48:12.443
+!MESSAGE 2022-12-08 11:48:12,438 INFO  org.talend.utils.StudioKeysFileCheck  - encryptionKeyFilePath: C:\LEMS\TOS_ESB-20200219_1130-V7.3.1\Studio\configuration\studio.keys
+
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-12-08 11:48:12.675
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 11:48:15.530
+!MESSAGE 2022-12-08 11:48:15,530 INFO  org.talend.repository.ui.login.LoginProjectPage  - validate updatesite...
+
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-12-08 11:48:44.566
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2022-12-08 12:04:25.003 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.16.1
+java.vendor=Azul Systems, Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -talendReload false
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -talendReload false -data file:/C:/LEMS/dev/talendTest/
+
+!ENTRY org.eclipse.jdt.launching.macosx 4 0 2022-12-08 12:04:25.900
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.macosx [19]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:451)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1783)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1762)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1725)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1656)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:233)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:343)
+
+!ENTRY org.eclipse.jdt.launching.ui.macosx 4 0 2022-12-08 12:04:25.902
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.eclipse.jdt.launching.ui.macosx [20]
+  Unresolved requirement: Require-Capability: eclipse.platform; filter:="(osgi.os=macosx)"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:451)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1783)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1762)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1725)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1656)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:233)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:343)
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:27.937
+!MESSAGE 2022-12-08 12:04:27,931 INFO  org.talend.utils.StudioKeysFileCheck  - encryptionKeyFilePath: C:\LEMS\TOS_ESB-20200219_1130-V7.3.1\Studio\configuration\studio.keys
+
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-12-08 12:04:28.166
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:30.981
+!MESSAGE 2022-12-08 12:04:30,981 INFO  org.talend.repository.ui.login.LoginProjectPage  - validate updatesite...
+
+
+!ENTRY org.talend.platform.logging 2 0 2022-12-08 12:04:39.257
+!MESSAGE 2022-12-08 12:04:39,256 WARN  org.talend.sdk.component.studio.logging.JULToOsgiHandler  - [org.talend.sdk.component.server.service.ComponentManagerService.init] No system property 'jdk.serialFilter', ensure it is intended
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:44.705
+!MESSAGE 2022-12-08 12:04:44,705 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /LEMS_DEV_ROUTINES/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:44.706
+!MESSAGE 2022-12-08 12:04:44,706 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Resources folder /LEMS_DEV_ROUTINES/src/main/java overlaps with sources folder /LEMS_DEV_ROUTINES/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:44.714
+!MESSAGE 2022-12-08 12:04:44,714 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /LEMS_DEV_ROUTINES/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:44.715
+!MESSAGE 2022-12-08 12:04:44,715 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /LEMS_DEV_ROUTINES/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:46.118
+!MESSAGE 2022-12-08 12:04:46,117 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/LEMS_DEV_ROUTINES: org.example.lems_dev.code:routines:7.3.1 with classifier  to /LEMS_DEV_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:46.228
+!MESSAGE 2022-12-08 12:04:46,228 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /LEMS_DEV_BEANS/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:46.230
+!MESSAGE 2022-12-08 12:04:46,229 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Resources folder /LEMS_DEV_BEANS/src/main/java overlaps with sources folder /LEMS_DEV_BEANS/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:46.236
+!MESSAGE 2022-12-08 12:04:46,236 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /LEMS_DEV_BEANS/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:46.237
+!MESSAGE 2022-12-08 12:04:46,237 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /LEMS_DEV_BEANS/src/test/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:47.979
+!MESSAGE 2022-12-08 12:04:47,978 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/LEMS_DEV_ROUTINES: org.example.lems_dev.code:routines:7.3.1 with classifier  to /LEMS_DEV_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:48.295
+!MESSAGE 2022-12-08 12:04:48,295 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  - C:\LEMS\dev\talendTest\LEMS_DEV\poms\code\routines
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:48.297
+!MESSAGE 2022-12-08 12:04:48,297 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  -  mvn -B -o -s C:\LEMS\TOS_ESB-20200219_1130-V7.3.1\Studio\configuration\maven_user_settings.xml install -llr -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:55.241
+!MESSAGE 2022-12-08 12:04:55,216 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/LEMS_DEV_ROUTINES: org.example.lems_dev.code:routines:7.3.1 with classifier  to /LEMS_DEV_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:55.334
+!MESSAGE 2022-12-08 12:04:55,334 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  - C:\LEMS\dev\talendTest\LEMS_DEV\poms\code\beans
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:55.335
+!MESSAGE 2022-12-08 12:04:55,335 INFO  org.eclipse.m2e.internal.launch.MavenLaunchDelegate  -  mvn -B -o -s C:\LEMS\TOS_ESB-20200219_1130-V7.3.1\Studio\configuration\maven_user_settings.xml install -llr -Dmaven.main.skip=true -Dci.builder.skip=true
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:04:59.154
+!MESSAGE 2022-12-08 12:04:59,153 INFO  org.talend.core.repository.model.ProxyRepositoryFactory  - user@talend.com logged on LEMS-DEV
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:05:00.234
+!MESSAGE 2022-12-08 12:05:00,233 INFO  org.talend.core.repository.logintask.ReadOnlyProjectConfirm  - ReadOnly confirm
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:05:36.687
+!MESSAGE 2022-12-08 12:05:36,686 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/LEMS_DEV_ROUTINES: org.example.lems_dev.code:routines:7.3.1 with classifier  to /LEMS_DEV_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:05:36.750
+!MESSAGE 2022-12-08 12:05:36,749 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /LEMS_DEV_TESTJOBTOPUSHTOMAIN_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:05:36.751
+!MESSAGE 2022-12-08 12:05:36,750 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /LEMS_DEV_TESTJOBTOPUSHTOMAIN_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:05:36.759
+!MESSAGE 2022-12-08 12:05:36,759 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /LEMS_DEV_TESTJOBTOPUSHTOMAIN_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2022-12-08 12:05:36.760
+!MESSAGE 2022-12-08 12:05:36,760 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /LEMS_DEV_TESTJOBTOPUSHTOMAIN_0.1/src/test/resources
+

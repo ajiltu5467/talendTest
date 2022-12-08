@@ -117,6 +117,7 @@
     <module>jobs/process/old/copy_of_orderitem_v4_0.1</module>
     <module>jobs/process/Product/datacorrection_icpq01upsertproducts900salesforce_v4_0.1</module>
     <module>jobs/process/Stock/teststock2_0.1</module>
+    <module>jobs/process/Account/testjobtopushtomain_0.1</module>
   </modules>
   <properties>
     <talend.project.name>LEMS_DEV</talend.project.name>
