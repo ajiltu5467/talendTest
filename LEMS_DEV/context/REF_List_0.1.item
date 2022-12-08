@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_WbPzcHa_Ee20LYNRNlyscw" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_WbPzcXa_Ee20LYNRNlyscw" comment="" name="REF_Folder" prompt="REF_Folder?" promptNeeded="false" type="id_String" value="C:/INTERFACES/S9000 to SF/Accounts/MappingTables/"/>
+    <contextParameter xmi:id="_WbPzcna_Ee20LYNRNlyscw" comment="" name="REF_Delais_Paiement" prompt="REF_Delais_Paiement?" promptNeeded="false" type="id_String" value="REF_Delai_Paiement.csv"/>
+    <contextParameter xmi:id="_WbPzc3a_Ee20LYNRNlyscw" comment="" name="REF_Territoires" prompt="REF_Territoires?" promptNeeded="false" type="id_String" value="REF_Territoire.csv"/>
+    <contextParameter xmi:id="_WbPzdHa_Ee20LYNRNlyscw" comment="" name="REF_Types_Client" prompt="REF_Types_Client?" promptNeeded="false" type="id_String" value="REF_Type_Client.csv"/>
+    <contextParameter xmi:id="_WbPzdXa_Ee20LYNRNlyscw" comment="" name="REF_Mode_Paiement" prompt="REF_Mode_Paiement?" promptNeeded="false" type="id_String" value="REF_Mode_Paiement.csv"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_WbPzdna_Ee20LYNRNlyscw" confirmationNeeded="false" name="LOCAL_DEV">
+    <contextParameter xmi:id="_WbPzd3a_Ee20LYNRNlyscw" comment="" name="REF_Folder" prompt="REF_Folder?" promptNeeded="false" type="id_String" value="G:/DEV/SALESFORCE/_PROJETS/LEMS/MappingTables/"/>
+    <contextParameter xmi:id="_WbPzeHa_Ee20LYNRNlyscw" comment="" name="REF_Delais_Paiement" prompt="REF_Delais_Paiement?" promptNeeded="false" type="id_String" value="REF_Delai_Paiement.csv"/>
+    <contextParameter xmi:id="_WbPzeXa_Ee20LYNRNlyscw" comment="" name="REF_Territoires" prompt="REF_Territoires?" promptNeeded="false" type="id_String" value="REF_Territoire.csv"/>
+    <contextParameter xmi:id="_WbPzena_Ee20LYNRNlyscw" comment="" name="REF_Types_Client" prompt="REF_Types_Client?" promptNeeded="false" type="id_String" value="REF_Type_Client.csv"/>
+    <contextParameter xmi:id="_WbPze3a_Ee20LYNRNlyscw" comment="" name="REF_Mode_Paiement" prompt="REF_Mode_Paiement?" promptNeeded="false" type="id_String" value="REF_Mode_Paiement.csv"/>
+  </talendfile:ContextType>
+</xmi:XMI>

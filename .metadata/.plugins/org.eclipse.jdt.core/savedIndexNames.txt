@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\LEMS\dev\talendTest\.metadata\.plugins\org.eclipse.jdt.core
+1789916568.index
+3963159698.index

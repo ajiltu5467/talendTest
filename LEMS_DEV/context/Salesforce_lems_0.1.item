@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Wbec8Ha_Ee20LYNRNlyscw" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_Wbec8Xa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_userPassword_userId" prompt="Salesforce_lems_proxy_userPassword_userId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbec8na_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_userPassword_securityKey" prompt="Salesforce_lems_userPassword_securityKey?" promptNeeded="false" type="id_Password" value="fDlA2H0mBS91O7e0NhTDCGc0"/>
+    <contextParameter xmi:id="_Wbec83a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_loginType" prompt="Salesforce_lems_loginType?" promptNeeded="false" type="id_String" value="Basic"/>
+    <contextParameter xmi:id="_Wbec9Ha_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_clientId" prompt="Salesforce_lems_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbec9Xa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_keyStorePassword" prompt="Salesforce_lems_oauth2JwtFlow_keyStorePassword?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbec9na_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_port" prompt="Salesforce_lems_proxy_port?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbec93a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_expirationTime" prompt="Salesforce_lems_oauth2JwtFlow_expirationTime?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbec-Ha_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_keyStore" prompt="Salesforce_lems_oauth2JwtFlow_keyStore?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbec-Xa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_audience" prompt="Salesforce_lems_oauth2JwtFlow_audience?" promptNeeded="false" type="id_String" value="https://login.salesforce.com"/>
+    <contextParameter xmi:id="_Wbec-na_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_userPassword_password" prompt="Salesforce_lems_proxy_userPassword_password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbec-3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_host" prompt="Salesforce_lems_proxy_host?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbec_Ha_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2FlowType" prompt="Salesforce_lems_oauth2FlowType?" promptNeeded="false" type="id_String" value="JWT_Flow"/>
+    <contextParameter xmi:id="_Wbec_Xa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_tokenFile" prompt="Salesforce_lems_oauth_tokenFile?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbec_na_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_certificateAlias" prompt="Salesforce_lems_oauth2JwtFlow_certificateAlias?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbec_3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_clientSecret" prompt="Salesforce_lems_oauth_clientSecret?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_WbedAHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_endpoint" prompt="Salesforce_lems_endpoint?" promptNeeded="false" type="id_String" value="https://test.salesforce.com/services/Soap/u/45.0"/>
+    <contextParameter xmi:id="_WbedAXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_userPassword_userId" prompt="Salesforce_lems_userPassword_userId?" promptNeeded="false" type="id_String" value="admin.hardis@lems.com"/>
+    <contextParameter xmi:id="_WbedAna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_apiVersion" prompt="Salesforce_lems_apiVersion?" promptNeeded="false" type="id_String" value="47.0"/>
+    <contextParameter xmi:id="_WbedA3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_issuer" prompt="Salesforce_lems_oauth2JwtFlow_issuer?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedBHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_callbackPort" prompt="Salesforce_lems_oauth_callbackPort?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_WbedBXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_clientId" prompt="Salesforce_lems_oauth_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedBna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_callbackHost" prompt="Salesforce_lems_oauth_callbackHost?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedB3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_timeout" prompt="Salesforce_lems_timeout?" promptNeeded="false" type="id_Integer" value="60000"/>
+    <contextParameter xmi:id="_WbedCHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_sessionDirectory" prompt="Salesforce_lems_sessionDirectory?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedCXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_subject" prompt="Salesforce_lems_oauth2JwtFlow_subject?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedCna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_userPassword_password" prompt="Salesforce_lems_userPassword_password?" promptNeeded="false" type="id_Password" value="Lems2022project@1"/>
+    <contextParameter xmi:id="_WbedC3a_Ee20LYNRNlyscw" comment="" name="new1" prompt="new1?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_WbedDHa_Ee20LYNRNlyscw" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="_WbedDXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_userPassword_userId" prompt="Salesforce_lems_proxy_userPassword_userId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedDna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_userPassword_securityKey" prompt="Salesforce_lems_userPassword_securityKey?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:yjDnaDHG6XmF27boCpTz5IKB2BC0/KBn6SoIVSBWC3AfHheHia/UvDHL4hKesK6NBGFgm74="/>
+    <contextParameter xmi:id="_WbedD3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_loginType" prompt="Salesforce_lems_loginType?" promptNeeded="false" type="id_String" value="Basic"/>
+    <contextParameter xmi:id="_WbedEHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_clientId" prompt="Salesforce_lems_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedEXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_keyStorePassword" prompt="Salesforce_lems_oauth2JwtFlow_keyStorePassword?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_WbedEna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_port" prompt="Salesforce_lems_proxy_port?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_WbedE3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_expirationTime" prompt="Salesforce_lems_oauth2JwtFlow_expirationTime?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_WbedFHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_keyStore" prompt="Salesforce_lems_oauth2JwtFlow_keyStore?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedFXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_audience" prompt="Salesforce_lems_oauth2JwtFlow_audience?" promptNeeded="false" type="id_String" value="https://login.salesforce.com"/>
+    <contextParameter xmi:id="_WbedFna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_userPassword_password" prompt="Salesforce_lems_proxy_userPassword_password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_WbedF3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_host" prompt="Salesforce_lems_proxy_host?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedGHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2FlowType" prompt="Salesforce_lems_oauth2FlowType?" promptNeeded="false" type="id_String" value="JWT_Flow"/>
+    <contextParameter xmi:id="_WbedGXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_tokenFile" prompt="Salesforce_lems_oauth_tokenFile?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedGna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_certificateAlias" prompt="Salesforce_lems_oauth2JwtFlow_certificateAlias?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedG3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_clientSecret" prompt="Salesforce_lems_oauth_clientSecret?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_WbedHHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_endpoint" prompt="Salesforce_lems_endpoint?" promptNeeded="false" type="id_String" value="https://test.salesforce.com/services/Soap/u/45.0"/>
+    <contextParameter xmi:id="_WbedHXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_userPassword_userId" prompt="Salesforce_lems_userPassword_userId?" promptNeeded="false" type="id_String" value="admin.hardis@lems.com.dev"/>
+    <contextParameter xmi:id="_WbedHna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_apiVersion" prompt="Salesforce_lems_apiVersion?" promptNeeded="false" type="id_String" value="47.0"/>
+    <contextParameter xmi:id="_WbedH3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_issuer" prompt="Salesforce_lems_oauth2JwtFlow_issuer?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedIHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_callbackPort" prompt="Salesforce_lems_oauth_callbackPort?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_WbedIXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_clientId" prompt="Salesforce_lems_oauth_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedIna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_callbackHost" prompt="Salesforce_lems_oauth_callbackHost?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedI3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_timeout" prompt="Salesforce_lems_timeout?" promptNeeded="false" type="id_Integer" value="60000"/>
+    <contextParameter xmi:id="_WbedJHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_sessionDirectory" prompt="Salesforce_lems_sessionDirectory?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedJXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_subject" prompt="Salesforce_lems_oauth2JwtFlow_subject?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedJna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_userPassword_password" prompt="Salesforce_lems_userPassword_password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:eT4BEWE94SZkk0FAKzFzL+K477Ptm376q6sQt4jx0Ar4nfq8ng=="/>
+    <contextParameter xmi:id="_WbedJ3a_Ee20LYNRNlyscw" comment="" name="new1" prompt="new1?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_WbedKHa_Ee20LYNRNlyscw" confirmationNeeded="false" name="PROD">
+    <contextParameter xmi:id="_WbedKXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_userPassword_userId" prompt="Salesforce_lems_proxy_userPassword_userId?" promptNeeded="false" type="id_String" value="admin.hardis@lems.com"/>
+    <contextParameter xmi:id="_WbedKna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_userPassword_securityKey" prompt="Salesforce_lems_userPassword_securityKey?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:sfAyLFx9gv79SMkXxjYKWZ1iahIVs1aDNp9k619lWBQqVihXfnyH2d8flcl2A/ZIj3jXzg=="/>
+    <contextParameter xmi:id="_WbedK3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_loginType" prompt="Salesforce_lems_loginType?" promptNeeded="false" type="id_String" value="Basic"/>
+    <contextParameter xmi:id="_WbedLHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_clientId" prompt="Salesforce_lems_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedLXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_keyStorePassword" prompt="Salesforce_lems_oauth2JwtFlow_keyStorePassword?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_WbedLna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_port" prompt="Salesforce_lems_proxy_port?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_WbedL3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_expirationTime" prompt="Salesforce_lems_oauth2JwtFlow_expirationTime?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_WbedMHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_keyStore" prompt="Salesforce_lems_oauth2JwtFlow_keyStore?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedMXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_audience" prompt="Salesforce_lems_oauth2JwtFlow_audience?" promptNeeded="false" type="id_String" value="https://login.salesforce.com"/>
+    <contextParameter xmi:id="_WbedMna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_userPassword_password" prompt="Salesforce_lems_proxy_userPassword_password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_WbedM3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_proxy_host" prompt="Salesforce_lems_proxy_host?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedNHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2FlowType" prompt="Salesforce_lems_oauth2FlowType?" promptNeeded="false" type="id_String" value="JWT_Flow"/>
+    <contextParameter xmi:id="_WbedNXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_tokenFile" prompt="Salesforce_lems_oauth_tokenFile?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedNna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_certificateAlias" prompt="Salesforce_lems_oauth2JwtFlow_certificateAlias?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedN3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_clientSecret" prompt="Salesforce_lems_oauth_clientSecret?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_WbedOHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_endpoint" prompt="Salesforce_lems_endpoint?" promptNeeded="false" type="id_String" value="https://login.salesforce.com/services/Soap/u/45.0"/>
+    <contextParameter xmi:id="_WbedOXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_userPassword_userId" prompt="Salesforce_lems_userPassword_userId?" promptNeeded="false" type="id_String" value="admin.hardis@lems.com"/>
+    <contextParameter xmi:id="_WbedOna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_apiVersion" prompt="Salesforce_lems_apiVersion?" promptNeeded="false" type="id_String" value="47.0"/>
+    <contextParameter xmi:id="_WbedO3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_issuer" prompt="Salesforce_lems_oauth2JwtFlow_issuer?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedPHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_callbackPort" prompt="Salesforce_lems_oauth_callbackPort?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_WbedPXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_clientId" prompt="Salesforce_lems_oauth_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedPna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth_callbackHost" prompt="Salesforce_lems_oauth_callbackHost?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedP3a_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_timeout" prompt="Salesforce_lems_timeout?" promptNeeded="false" type="id_Integer" value="60000"/>
+    <contextParameter xmi:id="_WbedQHa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_sessionDirectory" prompt="Salesforce_lems_sessionDirectory?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedQXa_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_oauth2JwtFlow_subject" prompt="Salesforce_lems_oauth2JwtFlow_subject?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_WbedQna_Ee20LYNRNlyscw" comment="" name="Salesforce_lems_userPassword_password" prompt="Salesforce_lems_userPassword_password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:f/9brNf9SV9gjMey49yuzNVPLZPZBm8yrCMhgtV66EVoUpEFJWfoq4U0ztHq"/>
+    <contextParameter xmi:id="_WbedQ3a_Ee20LYNRNlyscw" comment="" name="new1" prompt="new1?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>

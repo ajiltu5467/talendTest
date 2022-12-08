@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Wbo1AHa_Ee20LYNRNlyscw" confirmationNeeded="false" name="Prod">
+    <contextParameter xmi:id="_Wbo1AXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_userPassword_password" prompt="Scaleway_Dev_proxy_userPassword_password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbo1Ana_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_userPassword_userId" prompt="Scaleway_Dev_proxy_userPassword_userId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1A3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_expirationTime" prompt="Scaleway_Dev_oauth2JwtFlow_expirationTime?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbo1BHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_loginType" prompt="Scaleway_Dev_loginType?" promptNeeded="false" type="id_String" value="Basic"/>
+    <contextParameter xmi:id="_Wbo1BXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_userPassword_securityKey" prompt="Scaleway_Dev_userPassword_securityKey?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:aT+tpjnx+q3Et06jUKYau756RJiijy1Bp3DRDbEmmbJ1Oew+BYvruP1tp4EMMDAeDk4n7mY="/>
+    <contextParameter xmi:id="_Wbo1Bna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_callbackPort" prompt="Scaleway_Dev_oauth_callbackPort?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbo1B3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_clientSecret" prompt="Scaleway_Dev_oauth_clientSecret?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbo1CHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_keyStorePassword" prompt="Scaleway_Dev_oauth2JwtFlow_keyStorePassword?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbo1CXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_issuer" prompt="Scaleway_Dev_oauth2JwtFlow_issuer?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1Cna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_tokenFile" prompt="Scaleway_Dev_oauth_tokenFile?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1C3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_clientId" prompt="Scaleway_Dev_oauth_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1DHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_sessionDirectory" prompt="Scaleway_Dev_sessionDirectory?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1DXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_clientId" prompt="Scaleway_Dev_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1Dna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_keyStore" prompt="Scaleway_Dev_oauth2JwtFlow_keyStore?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1D3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_apiVersion" prompt="Scaleway_Dev_apiVersion?" promptNeeded="false" type="id_String" value="47.0"/>
+    <contextParameter xmi:id="_Wbo1EHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_timeout" prompt="Scaleway_Dev_timeout?" promptNeeded="false" type="id_Integer" value="60000"/>
+    <contextParameter xmi:id="_Wbo1EXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_port" prompt="Scaleway_Dev_proxy_port?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbo1Ena_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_callbackHost" prompt="Scaleway_Dev_oauth_callbackHost?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1E3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_host" prompt="Scaleway_Dev_proxy_host?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1FHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_userPassword_userId" prompt="Scaleway_Dev_userPassword_userId?" promptNeeded="false" type="id_String" value="vmenin@ext.scaleway.com"/>
+    <contextParameter xmi:id="_Wbo1FXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_subject" prompt="Scaleway_Dev_oauth2JwtFlow_subject?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1Fna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2FlowType" prompt="Scaleway_Dev_oauth2FlowType?" promptNeeded="false" type="id_String" value="JWT_Flow"/>
+    <contextParameter xmi:id="_Wbo1F3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_audience" prompt="Scaleway_Dev_oauth2JwtFlow_audience?" promptNeeded="false" type="id_String" value="https://login.salesforce.com"/>
+    <contextParameter xmi:id="_Wbo1GHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_userPassword_password" prompt="Scaleway_Dev_userPassword_password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:xFaoHA0t3QivjugPMy9JbYq3O9FJT5tYo686BiB32z9FJFnPRRS9JXr/EXhNNKsqFkl5UjA5iSje5bM="/>
+    <contextParameter xmi:id="_Wbo1GXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_endpoint" prompt="Scaleway_Dev_endpoint?" promptNeeded="false" type="id_String" value="https://login.salesforce.com/services/Soap/u/47.0"/>
+    <contextParameter xmi:id="_Wbo1Gna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_certificateAlias" prompt="Scaleway_Dev_oauth2JwtFlow_certificateAlias?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1G3a_Ee20LYNRNlyscw" comment="" name="case_comments" prompt="case_comments?" promptNeeded="false" type="id_String" value="&quot;C:\Talend\Scaleway\Dev\Case\Input\Extract_tickets_2022-07-19.csv&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Wbo1HHa_Ee20LYNRNlyscw" confirmationNeeded="false" name="PreProd">
+    <contextParameter xmi:id="_Wbo1HXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_userPassword_password" prompt="Scaleway_Dev_proxy_userPassword_password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbo1Hna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_userPassword_userId" prompt="Scaleway_Dev_proxy_userPassword_userId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1H3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_expirationTime" prompt="Scaleway_Dev_oauth2JwtFlow_expirationTime?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbo1IHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_loginType" prompt="Scaleway_Dev_loginType?" promptNeeded="false" type="id_String" value="Basic"/>
+    <contextParameter xmi:id="_Wbo1IXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_userPassword_securityKey" prompt="Scaleway_Dev_userPassword_securityKey?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:wBdZUZFKHJ+/px0tIj6W11okvhNfcf7FBk5BtdOq1tZ1ZN+M0TGgcS9pXJvhhWCxOPlNTg=="/>
+    <contextParameter xmi:id="_Wbo1Ina_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_callbackPort" prompt="Scaleway_Dev_oauth_callbackPort?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbo1I3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_clientSecret" prompt="Scaleway_Dev_oauth_clientSecret?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbo1JHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_keyStorePassword" prompt="Scaleway_Dev_oauth2JwtFlow_keyStorePassword?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbo1JXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_issuer" prompt="Scaleway_Dev_oauth2JwtFlow_issuer?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1Jna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_tokenFile" prompt="Scaleway_Dev_oauth_tokenFile?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1J3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_clientId" prompt="Scaleway_Dev_oauth_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1KHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_sessionDirectory" prompt="Scaleway_Dev_sessionDirectory?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1KXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_clientId" prompt="Scaleway_Dev_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1Kna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_keyStore" prompt="Scaleway_Dev_oauth2JwtFlow_keyStore?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1K3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_apiVersion" prompt="Scaleway_Dev_apiVersion?" promptNeeded="false" type="id_String" value="47.0"/>
+    <contextParameter xmi:id="_Wbo1LHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_timeout" prompt="Scaleway_Dev_timeout?" promptNeeded="false" type="id_Integer" value="60000"/>
+    <contextParameter xmi:id="_Wbo1LXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_port" prompt="Scaleway_Dev_proxy_port?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbo1Lna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_callbackHost" prompt="Scaleway_Dev_oauth_callbackHost?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1L3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_host" prompt="Scaleway_Dev_proxy_host?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1MHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_userPassword_userId" prompt="Scaleway_Dev_userPassword_userId?" promptNeeded="false" type="id_String" value="vmenin@ext.scaleway.com.preprod"/>
+    <contextParameter xmi:id="_Wbo1MXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_subject" prompt="Scaleway_Dev_oauth2JwtFlow_subject?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1Mna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2FlowType" prompt="Scaleway_Dev_oauth2FlowType?" promptNeeded="false" type="id_String" value="JWT_Flow"/>
+    <contextParameter xmi:id="_Wbo1M3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_audience" prompt="Scaleway_Dev_oauth2JwtFlow_audience?" promptNeeded="false" type="id_String" value="https://login.salesforce.com"/>
+    <contextParameter xmi:id="_Wbo1NHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_userPassword_password" prompt="Scaleway_Dev_userPassword_password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:LLE2rZXNlr7uRH7HArGqQT/a+9kzMYvQq/fg2HDazOhijAqxn9g+fsKN7htZZQS0"/>
+    <contextParameter xmi:id="_Wbo1NXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_endpoint" prompt="Scaleway_Dev_endpoint?" promptNeeded="false" type="id_String" value="https://test.salesforce.com/services/Soap/u/47.0"/>
+    <contextParameter xmi:id="_Wbo1Nna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_certificateAlias" prompt="Scaleway_Dev_oauth2JwtFlow_certificateAlias?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1N3a_Ee20LYNRNlyscw" comment="" name="case_comments" prompt="case_comments?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Wbo1OHa_Ee20LYNRNlyscw" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_Wbo1OXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_userPassword_password" prompt="Scaleway_Dev_proxy_userPassword_password?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbo1Ona_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_userPassword_userId" prompt="Scaleway_Dev_proxy_userPassword_userId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1O3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_expirationTime" prompt="Scaleway_Dev_oauth2JwtFlow_expirationTime?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbo1PHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_loginType" prompt="Scaleway_Dev_loginType?" promptNeeded="false" type="id_String" value="Basic"/>
+    <contextParameter xmi:id="_Wbo1PXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_userPassword_securityKey" prompt="Scaleway_Dev_userPassword_securityKey?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:feTedQAaj0SXTfIluTasM2BUl5UvZ/MxYBkX/Eb39gIYKf899GLrdsV15Jb9/oW0OnP+jgc="/>
+    <contextParameter xmi:id="_Wbo1Pna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_callbackPort" prompt="Scaleway_Dev_oauth_callbackPort?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbo1P3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_clientSecret" prompt="Scaleway_Dev_oauth_clientSecret?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbo1QHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_keyStorePassword" prompt="Scaleway_Dev_oauth2JwtFlow_keyStorePassword?" promptNeeded="false" type="id_Password" value=""/>
+    <contextParameter xmi:id="_Wbo1QXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_issuer" prompt="Scaleway_Dev_oauth2JwtFlow_issuer?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1Qna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_tokenFile" prompt="Scaleway_Dev_oauth_tokenFile?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1Q3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_clientId" prompt="Scaleway_Dev_oauth_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1RHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_sessionDirectory" prompt="Scaleway_Dev_sessionDirectory?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1RXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_clientId" prompt="Scaleway_Dev_clientId?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1Rna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_keyStore" prompt="Scaleway_Dev_oauth2JwtFlow_keyStore?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1R3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_apiVersion" prompt="Scaleway_Dev_apiVersion?" promptNeeded="false" type="id_String" value="47.0"/>
+    <contextParameter xmi:id="_Wbo1SHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_timeout" prompt="Scaleway_Dev_timeout?" promptNeeded="false" type="id_Integer" value="60000"/>
+    <contextParameter xmi:id="_Wbo1SXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_port" prompt="Scaleway_Dev_proxy_port?" promptNeeded="false" type="id_Integer" value=""/>
+    <contextParameter xmi:id="_Wbo1Sna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth_callbackHost" prompt="Scaleway_Dev_oauth_callbackHost?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1S3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_proxy_host" prompt="Scaleway_Dev_proxy_host?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1THa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_userPassword_userId" prompt="Scaleway_Dev_userPassword_userId?" promptNeeded="false" type="id_String" value="vmenin@ext.scaleway.com"/>
+    <contextParameter xmi:id="_Wbo1TXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_subject" prompt="Scaleway_Dev_oauth2JwtFlow_subject?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1Tna_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2FlowType" prompt="Scaleway_Dev_oauth2FlowType?" promptNeeded="false" type="id_String" value="JWT_Flow"/>
+    <contextParameter xmi:id="_Wbo1T3a_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_audience" prompt="Scaleway_Dev_oauth2JwtFlow_audience?" promptNeeded="false" type="id_String" value="https://login.salesforce.com"/>
+    <contextParameter xmi:id="_Wbo1UHa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_userPassword_password" prompt="Scaleway_Dev_userPassword_password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:LZRn2IDE74yIwMJuTEaImhAmG3t3GyrlBMCFqbWhRx5Nma50SavdArQ="/>
+    <contextParameter xmi:id="_Wbo1UXa_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_endpoint" prompt="Scaleway_Dev_endpoint?" promptNeeded="false" type="id_String" value="https://test.salesforce.com/services/Soap/u/47.0"/>
+    <contextParameter xmi:id="_Wbo1Una_Ee20LYNRNlyscw" comment="" name="Scaleway_Dev_oauth2JwtFlow_certificateAlias" prompt="Scaleway_Dev_oauth2JwtFlow_certificateAlias?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_Wbo1U3a_Ee20LYNRNlyscw" comment="" name="case_comments" prompt="case_comments?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
