@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
-  <talendfile:ContextType xmi:id="_ZLjtAHbBEe2YJOtgzRlncg" confirmationNeeded="false" name="Default">
-    <contextParameter xmi:id="_ZLjtAXbBEe2YJOtgzRlncg" comment="" name="File_List_Folder" prompt="File_List_Folder?" promptNeeded="false" type="id_String" value="C:/INTERFACES/S9000 to SF/Accounts/Files/"/>
-  </talendfile:ContextType>
-  <talendfile:ContextType xmi:id="_ZLjtAnbBEe2YJOtgzRlncg" confirmationNeeded="false" name="LOCAL_DEV">
-    <contextParameter xmi:id="_ZLjtA3bBEe2YJOtgzRlncg" comment="" name="File_List_Folder" prompt="File_List_Folder?" promptNeeded="false" type="id_String" value="G:/DEV/SALESFORCE/_PROJETS/LEMS/Files/"/>
-  </talendfile:ContextType>
-</xmi:XMI>
